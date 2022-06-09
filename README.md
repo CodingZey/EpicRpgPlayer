@@ -1,5 +1,5 @@
 # EpicRpgPlayer
-This will automaticlly play for you 
+This will automaticllay play for you 
 
 
 Where it says {userid} enter your discord user ID  
